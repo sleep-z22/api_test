@@ -1,0 +1,199 @@
+2026-05-11 19:52:37,450 - INFO - API客户端初始化完成，地址:https://jsonplaceholder.typicode.com
+2026-05-11 19:52:37,452 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 19:52:37,452 - INFO - GET请求:https://jsonplaceholder.typicode.com / posts/1
+2026-05-11 19:52:37,810 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 19:52:37,810 - INFO - GET请求:https://jsonplaceholder.typicode.com / posts/99999
+2026-05-11 19:52:37,873 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 19:52:37,873 - INFO - GET请求:https://jsonplaceholder.typicode.com / posts
+2026-05-11 19:56:12,656 - INFO - API客户端初始化完成，地址:https://jsonplaceholder.typicode.com
+2026-05-11 19:56:12,658 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 19:56:12,658 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 19:56:13,769 - INFO - 相应状态码:200
+2026-05-11 19:56:13,819 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 19:56:13,819 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/99999
+2026-05-11 19:56:14,185 - INFO - 相应状态码:404
+2026-05-11 19:56:14,198 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 19:56:14,198 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts
+2026-05-11 19:56:14,489 - INFO - 相应状态码:200
+2026-05-11 20:02:13,267 - INFO - API客户端初始化完成，地址: https://jsonplaceholder.typicode.com
+2026-05-11 20:02:13,269 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 20:02:13,270 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:02:17,710 - INFO - 相应状态码:200
+2026-05-11 20:02:17,711 - INFO - ✅ 测试通过！帖子标题: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-05-11 20:02:17,714 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 20:02:17,714 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/99999
+2026-05-11 20:02:18,108 - INFO - 相应状态码:404
+2026-05-11 20:02:18,108 - INFO - ✅ 正确返回404
+2026-05-11 20:02:18,109 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 20:02:18,109 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:02:18,526 - INFO - 相应状态码:200
+2026-05-11 20:02:18,526 - INFO - ✅ 获取到 100 条帖子
+2026-05-11 20:07:26,998 - INFO - API客户端初始化完成，地址: https://jsonplaceholder.typicode.com
+2026-05-11 20:07:27,001 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 20:07:27,001 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:07:29,324 - INFO - 相应状态码:200
+2026-05-11 20:07:29,324 - INFO - ✅ 测试通过！帖子标题: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-05-11 20:07:29,325 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 20:07:29,325 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/99999
+2026-05-11 20:07:30,428 - INFO - 相应状态码:404
+2026-05-11 20:07:30,429 - INFO - ✅ 正确返回404
+2026-05-11 20:07:30,431 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 20:07:30,431 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:07:32,488 - INFO - 相应状态码:200
+2026-05-11 20:07:32,488 - INFO - ✅ 获取到 100 条帖子
+2026-05-11 20:08:12,117 - INFO - API客户端初始化完成，地址: https://jsonplaceholder.typicode.com
+2026-05-11 20:08:12,119 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 20:08:12,120 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:08:14,404 - INFO - 相应状态码:200
+2026-05-11 20:08:14,404 - INFO - ✅ 测试通过！帖子标题: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-05-11 20:08:14,407 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 20:08:14,407 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/99999
+2026-05-11 20:08:14,873 - INFO - 相应状态码:404
+2026-05-11 20:08:14,873 - INFO - ✅ 正确返回404
+2026-05-11 20:08:14,876 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 20:08:14,877 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:08:15,279 - INFO - 相应状态码:200
+2026-05-11 20:08:15,280 - INFO - ✅ 获取到 100 条帖子
+2026-05-11 20:22:39,017 - INFO - API客户端初始化完成，地址: https://jsonplaceholder.typicode.com
+2026-05-11 20:22:39,019 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 20:22:39,019 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:22:40,996 - INFO - 相应状态码:200
+2026-05-11 20:22:40,996 - INFO - ✅ 测试通过！帖子标题: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-05-11 20:22:41,000 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 20:22:41,000 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/99999
+2026-05-11 20:22:41,283 - INFO - 相应状态码:404
+2026-05-11 20:22:41,283 - INFO - ✅ 正确返回404
+2026-05-11 20:22:41,284 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 20:22:41,284 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:22:41,583 - INFO - 相应状态码:200
+2026-05-11 20:22:41,584 - INFO - ✅ 获取到 100 条帖子
+2026-05-11 20:45:21,468 - INFO - API客户端初始化完成，地址: https://jsonplaceholder.typicode.com
+2026-05-11 20:45:21,473 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 20:45:21,473 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:22,391 - INFO - 相应状态码:200
+2026-05-11 20:45:22,392 - INFO - ✅ 测试通过！帖子标题: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-05-11 20:45:22,395 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 20:45:22,455 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/99999
+2026-05-11 20:45:22,896 - INFO - 相应状态码:404
+2026-05-11 20:45:22,897 - INFO - ✅ 正确返回404
+2026-05-11 20:45:22,900 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 20:45:22,901 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:45:23,449 - INFO - 相应状态码:200
+2026-05-11 20:45:23,450 - INFO - ✅ 获取到 100 条帖子
+2026-05-11 20:45:23,451 - INFO - ========== 开始测试创建帖子 ==========
+2026-05-11 20:45:23,452 - INFO - POST请求: https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:45:23,729 - INFO - 响应状态码: 201
+2026-05-11 20:45:23,731 - INFO - ✅ 创建成功！新帖子ID: 101
+2026-05-11 20:45:23,733 - INFO - ========== 开始测试更新帖子 ==========
+2026-05-11 20:45:23,733 - INFO - PUT请求: https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:24,850 - INFO - 响应状态码: 200
+2026-05-11 20:45:24,851 - INFO - ✅ 更新成功！
+2026-05-11 20:45:24,853 - INFO - ========== 开始测试删除帖子 ==========
+2026-05-11 20:45:24,853 - INFO - DELETE请求: https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:25,253 - INFO - 响应状态码: 200
+2026-05-11 20:45:25,254 - INFO - ✅ 删除成功！
+2026-05-11 20:45:25,262 - INFO - ========== 测试获取帖子 ID=1 ==========
+2026-05-11 20:45:25,263 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:25,558 - INFO - 相应状态码:200
+2026-05-11 20:45:25,559 - INFO - ✅ 帖子 1 获取成功，标题: sunt aut facere repellat provi...
+2026-05-11 20:45:25,562 - INFO - ========== 测试获取帖子 ID=2 ==========
+2026-05-11 20:45:25,562 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/2
+2026-05-11 20:45:25,826 - INFO - 相应状态码:200
+2026-05-11 20:45:25,827 - INFO - ✅ 帖子 2 获取成功，标题: qui est esse...
+2026-05-11 20:45:25,837 - INFO - ========== 测试获取帖子 ID=3 ==========
+2026-05-11 20:45:25,838 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/3
+2026-05-11 20:45:26,189 - INFO - 相应状态码:200
+2026-05-11 20:45:26,189 - INFO - ✅ 帖子 3 获取成功，标题: ea molestias quasi exercitatio...
+2026-05-11 20:45:26,192 - INFO - ========== 测试获取帖子 ID=4 ==========
+2026-05-11 20:45:26,193 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/4
+2026-05-11 20:45:26,683 - INFO - 相应状态码:200
+2026-05-11 20:45:26,684 - INFO - ✅ 帖子 4 获取成功，标题: eum et est occaecati...
+2026-05-11 20:45:26,688 - INFO - ========== 测试获取帖子 ID=5 ==========
+2026-05-11 20:45:26,688 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/5
+2026-05-11 20:45:26,993 - INFO - 相应状态码:200
+2026-05-11 20:45:26,995 - INFO - ✅ 帖子 5 获取成功，标题: nesciunt quas odio...
+2026-05-11 20:45:26,998 - INFO - 测试帖子ID=1，预期状态码=200
+2026-05-11 20:45:27,000 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:27,299 - INFO - 相应状态码:200
+2026-05-11 20:45:27,299 - INFO - ✅ 状态码正确: 200
+2026-05-11 20:45:27,302 - INFO - 测试帖子ID=2，预期状态码=200
+2026-05-11 20:45:27,302 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/2
+2026-05-11 20:45:27,616 - INFO - 相应状态码:200
+2026-05-11 20:45:27,616 - INFO - ✅ 状态码正确: 200
+2026-05-11 20:45:27,619 - INFO - 测试帖子ID=999，预期状态码=404
+2026-05-11 20:45:27,619 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/999
+2026-05-11 20:45:28,104 - INFO - 相应状态码:404
+2026-05-11 20:45:28,104 - INFO - ✅ 状态码正确: 404
+2026-05-11 20:45:28,107 - INFO - 测试帖子ID=0，预期状态码=404
+2026-05-11 20:45:28,108 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/0
+2026-05-11 20:45:28,424 - INFO - 相应状态码:404
+2026-05-11 20:45:28,425 - INFO - ✅ 状态码正确: 404
+2026-05-11 20:45:28,427 - INFO - 测试帖子ID=-1，预期状态码=404
+2026-05-11 20:45:28,428 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/-1
+2026-05-11 20:45:28,907 - INFO - 相应状态码:404
+2026-05-11 20:45:28,907 - INFO - ✅ 状态码正确: 404
+2026-05-11 20:45:53,333 - INFO - API客户端初始化完成，地址: https://jsonplaceholder.typicode.com
+2026-05-11 20:45:53,366 - INFO - ========== 开始测试获取帖子 ==========
+2026-05-11 20:45:53,366 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:54,335 - INFO - 相应状态码:200
+2026-05-11 20:45:54,335 - INFO - ✅ 测试通过！帖子标题: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-05-11 20:45:54,351 - INFO - ========== 开始测试不存在的帖子 ==========
+2026-05-11 20:45:54,351 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/99999
+2026-05-11 20:45:54,641 - INFO - 相应状态码:404
+2026-05-11 20:45:54,641 - INFO - ✅ 正确返回404
+2026-05-11 20:45:54,643 - INFO - ========== 开始测试获取所有帖子 ==========
+2026-05-11 20:45:54,643 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:45:54,951 - INFO - 相应状态码:200
+2026-05-11 20:45:54,955 - INFO - ✅ 获取到 100 条帖子
+2026-05-11 20:45:54,965 - INFO - ========== 开始测试创建帖子 ==========
+2026-05-11 20:45:54,968 - INFO - POST请求: https://jsonplaceholder.typicode.com/posts
+2026-05-11 20:45:55,285 - INFO - 响应状态码: 201
+2026-05-11 20:45:55,286 - INFO - ✅ 创建成功！新帖子ID: 101
+2026-05-11 20:45:55,290 - INFO - ========== 开始测试更新帖子 ==========
+2026-05-11 20:45:55,290 - INFO - PUT请求: https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:55,569 - INFO - 响应状态码: 200
+2026-05-11 20:45:55,569 - INFO - ✅ 更新成功！
+2026-05-11 20:45:55,571 - INFO - ========== 开始测试删除帖子 ==========
+2026-05-11 20:45:55,571 - INFO - DELETE请求: https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:55,894 - INFO - 响应状态码: 200
+2026-05-11 20:45:55,895 - INFO - ✅ 删除成功！
+2026-05-11 20:45:55,901 - INFO - ========== 测试获取帖子 ID=1 ==========
+2026-05-11 20:45:55,901 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:56,583 - INFO - 相应状态码:200
+2026-05-11 20:45:56,583 - INFO - ✅ 帖子 1 获取成功，标题: sunt aut facere repellat provi...
+2026-05-11 20:45:56,588 - INFO - ========== 测试获取帖子 ID=2 ==========
+2026-05-11 20:45:56,588 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/2
+2026-05-11 20:45:56,862 - INFO - 相应状态码:200
+2026-05-11 20:45:56,863 - INFO - ✅ 帖子 2 获取成功，标题: qui est esse...
+2026-05-11 20:45:56,866 - INFO - ========== 测试获取帖子 ID=3 ==========
+2026-05-11 20:45:56,866 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/3
+2026-05-11 20:45:57,201 - INFO - 相应状态码:200
+2026-05-11 20:45:57,201 - INFO - ✅ 帖子 3 获取成功，标题: ea molestias quasi exercitatio...
+2026-05-11 20:45:57,204 - INFO - ========== 测试获取帖子 ID=4 ==========
+2026-05-11 20:45:57,204 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/4
+2026-05-11 20:45:57,500 - INFO - 相应状态码:200
+2026-05-11 20:45:57,500 - INFO - ✅ 帖子 4 获取成功，标题: eum et est occaecati...
+2026-05-11 20:45:57,513 - INFO - ========== 测试获取帖子 ID=5 ==========
+2026-05-11 20:45:57,515 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/5
+2026-05-11 20:45:58,685 - INFO - 相应状态码:200
+2026-05-11 20:45:58,686 - INFO - ✅ 帖子 5 获取成功，标题: nesciunt quas odio...
+2026-05-11 20:45:58,693 - INFO - 测试帖子ID=1，预期状态码=200
+2026-05-11 20:45:58,695 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/1
+2026-05-11 20:45:59,072 - INFO - 相应状态码:200
+2026-05-11 20:45:59,072 - INFO - ✅ 状态码正确: 200
+2026-05-11 20:45:59,076 - INFO - 测试帖子ID=2，预期状态码=200
+2026-05-11 20:45:59,076 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/2
+2026-05-11 20:46:00,887 - INFO - 相应状态码:200
+2026-05-11 20:46:00,887 - INFO - ✅ 状态码正确: 200
+2026-05-11 20:46:00,890 - INFO - 测试帖子ID=999，预期状态码=404
+2026-05-11 20:46:00,890 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/999
+2026-05-11 20:46:01,156 - INFO - 相应状态码:404
+2026-05-11 20:46:01,156 - INFO - ✅ 状态码正确: 404
+2026-05-11 20:46:01,161 - INFO - 测试帖子ID=0，预期状态码=404
+2026-05-11 20:46:01,161 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/0
+2026-05-11 20:46:01,502 - INFO - 相应状态码:404
+2026-05-11 20:46:01,502 - INFO - ✅ 状态码正确: 404
+2026-05-11 20:46:01,507 - INFO - 测试帖子ID=-1，预期状态码=404
+2026-05-11 20:46:01,507 - INFO - GET请求:https://jsonplaceholder.typicode.com/posts/-1
+2026-05-11 20:46:01,808 - INFO - 相应状态码:404
+2026-05-11 20:46:01,808 - INFO - ✅ 状态码正确: 404
