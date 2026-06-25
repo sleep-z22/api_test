@@ -23,7 +23,7 @@ def test_get_nonexistent_post():
     response = client.get("/posts/99999")
 
     assert response.status_code == 404
-    logger.info("✅ 正确返回404")
+    logger.info(f"✅ 正确返回404")
 
 
 def test_get_all_posts():
@@ -113,7 +113,7 @@ def test_multiple_posts(post_id):
     (2, 200),  # 存在的帖子 → 200
     (999, 404),  # 不存在的帖子 → 404
     (0, 404),  # 无效ID → 404
-    (-1, 404),  # 负数ID → 404
+    (-1, 404), # 负数ID → 404
 ])
 def test_posts_with_expected_status(post_id, expected_status):
     """参数化测试：测试不同ID的预期状态码"""
